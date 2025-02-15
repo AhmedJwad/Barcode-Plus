@@ -1,0 +1,6 @@
+@Barcode_Plus.backend_HostAddress = http://localhost:5095
+
+GET {{Barcode_Plus.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
